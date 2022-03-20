@@ -27,12 +27,12 @@ In having a representation of the Environment that the Agent can directly read a
 ### Advantage
 
 An innacurate direct Model of the Environment is stronger than an accurate indirect Image of the Environment in deciding Goal-achieving Actions.\
-This is due to the Model not representing the Senses' Image itself direcly, but merely having to be consistent with it. Additionally, through any structure inherent in the _Modelling-System_ of the Agent's Decider, the accuracy of the model to the Environment can be greater than permitted by the total complexity of the Senses of the Agent, by restraining the possible interpretations of their Image.\
+This is due to the Model not representing the Senses' Image itself direcly, but merely having to be consistent with it. Additionally, through any structure inherent in the _Modelling-System_ of the Agent's Decider, the accuracy of the model to the Environment can be greater than permitted by the total complexity of the Senses of the Agent, by restraining the possible interpretations of their Image.
 
 
 ## Humans
 
-While the human mind is not cleanly approachable as a Modelling Agent Decider, having partially retained both Hard-Wired and Soft-Wired processes, applying the Modelling Agent Model to Human behaviour still is of value in understanding the capabilities and limitations of humans.\
+While the human mind is not cleanly approachable as a Modelling Agent Decider, having partially retained both Hard-Wired and Soft-Wired processes, applying the Modelling Agent Model to Human behaviour still is of value in understanding the capabilities and limitations of humans.
 
 ## Artificial Intelligence
 
